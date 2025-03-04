@@ -33,9 +33,6 @@ AQI Prediction & Alerts is a GUI-based application designed to predict Air Quali
 ## Contributors
 - **Madhankumar T** - Developer & Data Analyst
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any queries or collaborations, feel free to reach out:
 - Email: gtmadhankumar@gmail.com
